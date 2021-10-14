@@ -6,7 +6,7 @@ def insert_job_card(job):
     db = mysql.connector.connect(
         host="localhost",
         user="root",
-        passwd="Roronoazoro12*",
+        passwd="************",
         database="testdatabase"
     )
 
